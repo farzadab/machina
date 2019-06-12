@@ -1,3 +1,4 @@
+import copy
 import torch.nn as nn
 
 from machina.utils import get_device
